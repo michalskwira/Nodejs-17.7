@@ -1,2 +1,1 @@
-
-Zapis!
+.DS_Store,.git,cat.jpg,index.js,node_modules,package-lock.json,package.json,tek.txt,tekst.txt
